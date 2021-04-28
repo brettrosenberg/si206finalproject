@@ -3,7 +3,7 @@ Brett Rosenberg and Maddie Gaudet
 
 ## __Goal__
 
-The goal of this project was allow users to pull stock or crypto data from an API and create simple visualizations with technical indicators using a simple interface.
+The goal of this project was to allow users to pull stock or crypto data from an API and create simple visualizations with technical indicators using a simple interface.
 
 To achieve this, the project will be using the Alpha Vantage and Nomics API (stocks, and crypto data, respectively). Our project will also use a SQLite3 database as a persistent store.
 
