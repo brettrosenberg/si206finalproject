@@ -1,3 +1,4 @@
+Brett Rosenberg and Maddie Gaudet 
 # Report for Final Project SI 206 
 
 ## __Goal__
