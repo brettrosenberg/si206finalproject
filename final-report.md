@@ -1,6 +1,7 @@
 # Report for Final Project SI 206 
 
 ## __Goal__
+GitHub Repository: 
 
 The goal of this project was to build a companion CLI tool that allows users to pull stock or crypto data from an API and create simple visualizations with technical indicators using a simple inteface.
 
